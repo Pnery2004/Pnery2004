@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Pnery2004
-- 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...paulonery2004@gmail.com
+Paulo Nery Lobo
+Estudante de eng. de software-UnB
 
 <!---
 Pnery2004/Pnery2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
