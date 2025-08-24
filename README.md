@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Pnery2004
+# Olá! 👋 Eu sou o Paulo Nery
 
 Bem-vindo ao meu perfil no GitHub!  
 Sou apaixonado por tecnologia, programação e aprendizado constante. Aqui você encontrará alguns dos meus projetos, estudos e contribuições para a comunidade open source.
@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia, programação e aprendizado constante. Aqui você
 
 ## Principais Projetos
 
-- [Sonorus](https://github.com/Pnery2004/sonorus) — Meu projeto para manipulação e reprodução de áudio!
+- [Sonorus](https://github.com/unb-mds/Sonorus-2025.1) — Meu projeto de utilização de biometria vocal
 
 ## Currículo
 
@@ -26,12 +26,17 @@ Quer conhecer mais sobre minha trajetória profissional?
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 <!-- Adicione mais conforme sua experiência -->
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seu-email-aqui@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-lobo-b36b0b278)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Paulonery2004@gmail.com)
 
 ---
 
