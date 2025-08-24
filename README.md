@@ -6,7 +6,8 @@ Sou apaixonado por tecnologia, programação e aprendizado constante. Aqui você
 ## Sobre mim
 
 - 💻 Desenvolvedor entusiasta, sempre explorando novas linguagens e ferramentas.
-- 🎓 Buscando aprimorar meus conhecimentos em desenvolvimento de software.
+- 🎓  Estudante de engenharia de software na UNB
+- 🔍Buscando aprimorar e aplicar meus conhecimentos em engenharia de software.
 - 🚀 Interessado em projetos de automação, web, IA e soluções inovadoras.
 - 📚 Sempre aberto a aprender e compartilhar conhecimento.
 
